@@ -1,6 +1,7 @@
 ### Oi, eu sou o Leonardo Pandolfi!
 
 - Atualmente procuro o meu primeiro emprego na aréa da programação!
+- Certificado de Programador Web Java autenticado pelo PROA!
 
 <div align="center">
   <a href="https://github.com/leonardoPandolfi">
