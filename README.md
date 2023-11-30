@@ -3,6 +3,7 @@
 - Atualmente procuro o meu primeiro emprego na aréa da programação!
 - Certificado de Programador Web Java autenticado pelo PROA!
 - Experiência Jovem aprendiz TI - Service Desk na Unimed Fesp!
+- Cursando curso superior em Análise e Desenvolvimento de Sistemas 2/5!
 
 <div align="center">
   <a href="https://github.com/leonardoPandolfi">
