@@ -5,6 +5,7 @@
 - Experiência Jovem aprendiz TI - Service Desk na Unimed Fesp!
 - Cursando superior em Análise e Desenvolvimento de Sistemas 2/5!
 
+
 <div align="center">
   <a href="https://github.com/leonardoPandolfi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoPandolfi&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
