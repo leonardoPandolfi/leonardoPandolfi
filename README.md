@@ -3,7 +3,8 @@
 - Atualmente procuro o meu primeiro emprego na aréa da programação!
 - Certificado de Programador Web Java autenticado pelo PROA!
 - Experiência Jovem aprendiz TI - Service Desk na Unimed Fesp!
-- Cursando superior em Análise e Desenvolvimento de Sistemas 2/5!
+- Experiência Técnico de suporte - GlobalTech, terceirizada na Receita Federal!
+- Cursando superior em Análise e Desenvolvimento de Sistemas 5/5!
 
 
 <div align="center">
