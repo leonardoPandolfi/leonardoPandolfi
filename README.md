@@ -4,7 +4,7 @@
 - Certificado de Programador Web Java autenticado pelo PROA!
 - Experiência Jovem aprendiz TI - Service Desk na Unimed Fesp!
 - Experiência Técnico de suporte - GlobalTech, terceirizada na Receita Federal!
-- Cursando superior em Análise e Desenvolvimento de Sistemas 5/5!
+- Formado em Análise e Desenvolvimento de Sistemas!
 
 
 <div align="center">
