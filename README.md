@@ -20,4 +20,4 @@
 <div>
 
 ![Snake animation](https://github.com/leonardoPandolfi/leonardoPandolfi/blob/output/github-contribution-grid-snake.svg)
-![Snake Animation](https://github.com/leonardoPandolfi/leonardoPandolfi/blob/output/github-snake.svg)
+
